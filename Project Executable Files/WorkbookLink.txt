@@ -1,3 +1,3 @@
-Dashboard-1:https://public.tableau.com/shared/N48D4ZJKX?:display_count=n&:origin=viz_share_link
-Dashboard-2: https://public.tableau.com/shared/TCKKYCC53?:display_count=n&:origin=viz_share_link
+Dashboard-1:https://public.tableau.com/views/EV_Analytics_Global_India_17715273141340/GlobalEuropeEVInsights?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Dashboard-2:https://public.tableau.com/shared/FHSPR4Z98?:display_count=n&:origin=viz_share_link
 profile:https://public.tableau.com/app/profile/pavani.nallapureddy5425/vizzes
