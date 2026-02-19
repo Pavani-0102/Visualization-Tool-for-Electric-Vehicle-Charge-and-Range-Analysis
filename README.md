@@ -26,10 +26,11 @@ This project presents a comprehensive Tableau-based solution for comparing elect
 **Project Duration**:28 Jan 2026-20 Feb 2026
 
 **Team Members:**
-- N.Pavani – Dashboard design, architecture, Tableau story,Demo video
+- N.Pavani – Dashboard design, architecture, Tableau story
 - N.Yaswitha– Performance testing  
 - M.Jhansi– Ideation phase (brainstorming & mapping)  
-- KR.Priyanka– Requirement analysis,documentation   
+- R.Priyanka– Demo video,documentation
+- K.Srinivas-Requirement analysis,dashboard sheet creation
 ---
 
 ## 🔍 Project Highlights
